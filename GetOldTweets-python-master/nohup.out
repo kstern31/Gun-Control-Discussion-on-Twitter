@@ -1,0 +1,24 @@
+Twitter weird response. Try to see on browser: https://twitter.com/search?q=%20since%3A2017-11-05%20until%3A2017-11-06%20%23guncontrol&src=typd
+Unexpected error: <class 'KeyboardInterrupt'>
+Twitter weird response. Try to see on browser: https://twitter.com/search?q=%20since%3A2017-11-05%20until%3A2017-11-06%20%23guncontrol&src=typd
+Unexpected error: <class 'urllib.error.URLError'>
+Twitter weird response. Try to see on browser: https://twitter.com/search?q=%20since%3A2017-11-05%20until%3A2017-11-06%20%23guncontrol&src=typd
+Unexpected error: <class 'urllib.error.URLError'>
+Twitter weird response. Try to see on browser: https://twitter.com/search?q=%20since%3A2017-11-05%20until%3A2017-11-06%20%23guncontrol&src=typd
+Unexpected error: <class 'urllib.error.URLError'>
+Traceback (most recent call last):
+  File "tweets.py", line 54, in <module>
+    col.insert_many(tweets)
+  File "/home/kstern/anaconda3/lib/python3.5/site-packages/pymongo/collection.py", line 727, in insert_many
+    raise TypeError("documents must be a non-empty list")
+TypeError: documents must be a non-empty list
+Traceback (most recent call last):
+  File "tweets.py", line 54, in <module>
+    col.insert_many(tweetList)
+  File "/home/kstern/anaconda3/lib/python3.5/site-packages/pymongo/collection.py", line 727, in insert_many
+    raise TypeError("documents must be a non-empty list")
+TypeError: documents must be a non-empty list
+Twitter weird response. Try to see on browser: https://twitter.com/search?q=%20since%3A2017-11-07%20until%3A2017-11-08%20%23guncontrol&src=typd
+Unexpected error: <class 'urllib.error.HTTPError'>
+Twitter weird response. Try to see on browser: https://twitter.com/search?q=%20since%3A2016-06-17%20until%3A2016-06-18%20%23nra&src=typd
+Unexpected error: <class 'urllib.error.HTTPError'>
